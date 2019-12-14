@@ -57,6 +57,11 @@ Server: 3 CPU, 3 GB RAM, 200 MBpS
 
 Answer: 2 servers, 1st server: machine 1, machine 2, 2nd server: machine 3.
 
+# Note-
+This is not the perfect solution or best fit. This is just a working solution for this problem.
+Please directly execute the file & have a look at the solution. I want to improve this to return Best Fit cluster configution.
+As of now this script is return machines in sequential manner until requirements are fulfilled.
+Please share your suggestions to mikhil.nagarale@gmail.com
  
 
  
