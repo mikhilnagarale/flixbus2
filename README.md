@@ -1,7 +1,7 @@
 # flixbus2
 This repo contains the programming problem to allocate Best Fit VM in given  cluster configuration.
 
-Problem Statement-
+# Problem Statement-
 
 You are given a list of virtual machines defined by the required number of CPUs, amount of RAM (in GBs) and network bandwidth (in MBpS). You can order any number of servers of a specific given size, where the size is always equal or bigger than the biggest virtual machine in the list. Your goal is to write a function which, given a list of VMs and the server characteristics, returns the number of servers needed to fit all the VMs. Make an attempt to create an algorithm which minimises the number of servers needed. As an extra step please provide an allocation map as a second output of the function.
 
